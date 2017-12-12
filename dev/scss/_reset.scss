@@ -1,0 +1,12 @@
+.pl-ra *,
+.pl-ra *:before,
+.pl-ra *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.pl-ra {
+  padding: $ra-body-spacer;
+  background-color: #fff;
+}
